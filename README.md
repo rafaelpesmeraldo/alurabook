@@ -1,4 +1,4 @@
-# AluraBook
+# 📘 AluraBook 📱
 
 O **AluraBook** é um projeto que me ajudou significativamente a aprimorar minhas habilidades de desenvolvimento web, com foco na abordagem Mobile First, durante o curso oferecido pela Alura. Este projeto destaca-se pela sua ênfase na responsividade, utilizando técnicas como Flexbox, Media Queries e Swiper JS para criar uma experiência de usuário fluida em dispositivos móveis e desktop.
 
@@ -18,4 +18,4 @@ O **AluraBook** é um projeto que me ajudou significativamente a aprimorar minha
 Para experimentar o projeto, você pode clonar este repositório e abrir o arquivo `index.html` em seu navegador. Certifique-se de testar em dispositivos móveis para visualizar a abordagem Mobile First em ação.
 
 ## Contribuição:
-Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas, sugerir melhorias ou enviar pull requests para tornar este projeto ainda melhor.
+Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas, sugerir melhorias ou enviar pull requests para tornar este projeto ainda melhor. 🚀
